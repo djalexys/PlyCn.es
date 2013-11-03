@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+	<title>3uves.com - El acortador de Víctor Campuzano | http://3uves.com/</title>
+	<link rel="shortcut icon" href="http://3uves.com/images/favicon.gif" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE-9"/>
+	<meta name="author" content="Ozh RICHARD & Lester CHAN for http://yourls.org/" />
+	<meta name="generator" content="YOURLS 1.6" />
+	<meta name="description" content="Insert URL &laquo; YOURLS &raquo; Your Own URL Shortener' | http://3uves.com" />
+	<script src="http://3uves.com/js/jquery-1.9.1.min.js?v=1.6" type="text/javascript"></script>
+	<script src="http://3uves.com/js/common.js?v=1.6" type="text/javascript"></script>
+	<script src="http://3uves.com/js/jquery.notifybar.js?v=1.6" type="text/javascript"></script>
+	<link rel="stylesheet" href="http://3uves.com/css/style.css?v=1.6" type="text/css" media="screen" />
+				<link rel="stylesheet" href="http://3uves.com/css/tablesorter.css?v=1.6" type="text/css" media="screen" />
+		<script src="http://3uves.com/js/jquery.tablesorter.min.js?v=1.6" type="text/javascript"></script>
+				<script src="http://3uves.com/js/insert.js?v=1.6" type="text/javascript"></script>
+				<link rel="stylesheet" href="http://3uves.com/css/share.css?v=1.6" type="text/css" media="screen" />
+		<script src="http://3uves.com/js/share.js?v=1.6" type="text/javascript"></script>
+		<script src="http://3uves.com/js/jquery.zclip.min.js?v=1.6" type="text/javascript"></script>
+				<link rel="stylesheet" href="http://3uves.com/css/cal.css?v=1.6" type="text/css" media="screen" />
+		
+<script>
+var l10n_cal_month = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+var l10n_cal_days = ["S","M","T","W","T","F","S"];
+var l10n_cal_today = "Today";
+var l10n_cal_close = "Close";
+</script>
+		<script src="http://3uves.com/js/jquery.cal.js?v=1.6" type="text/javascript"></script>
+			<script type="text/javascript">
+	//<![CDATA[
+		var ajaxurl  = 'http://3uves.com/admin/admin-ajax.php';
+		var zclipurl = 'http://3uves.com/js/ZeroClipboard.swf';
+	//]]>
+	</script>
+	</head>
+<body class="index desktop">
+<div id="wrap">
+	<div class="logo"><a href="/"><img src="images/logo.png" /></a></div>		
+		<form method="post" action="" class="form-wrapper">
+		
+        <input type="text" id="url" name="url" value="" placeholder="Pega aquí la URL que quieres acortar ..." required>
+	<input type="submit" value="Acortar" id="submit">
+</form>
+		</form>	<div id="foot3v">
+<h3 class="foot-h3">¿Te mola mi acortador? <a href="http://www.vcgs.net/blog/como-construir-tu-propio-sharedby-e-integrarlo-con-twitterfeed/" target="_blank"> Hazte el tuyo gratis </a></h3>
+<p class="footer-info">Desarrollado usando <a href="http://www.yourls.org/" target="_blank" title="YOURLS Url Shortener" >YOURLS</a>, un proyecto de Software Libre. Diseño y personalización de mano de <a href="http://www.vcgs.net/blog/?utm_source=vcgs.net&utm_medium=Si+has+sonreido+hazme+una+mención+please&utm_content=Si+has+sonreído,+hazme+una+mención+please&utm_campaign=Víctor+es+Guapísimo" target="_blank" title="Víctor Campuzano" >Víctor Campuzano</a>.</p>
+</div>
+
+	</div> 	
+			</body>
+	</html>
